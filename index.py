@@ -11,10 +11,7 @@ import base64
 
 
 
-st.title("18CSE301J-RA2011003011058 - Nikhil")
-st.text("")
-st.text("")
-st.header("DATASET-IPL AUCTION 2022")
+st.header(**"IPL AUCTION 2022"**)
 st.text("")
 st.text("")
 st.write("The 2022 Indian Premier League, also known as IPL 15 or for sponsorship reasons, TATA IPL 2022, was the fifteenth season of the Indian Premier League (IPL), a professional Twenty20 cricket league established by the Board of Control for Cricket in India (BCCI) in 2007. The tournament was played from 26 March 2022 to 29 May 2022. The group stage of the tournament was played entirely in the state of Maharashtra, with Mumbai, Navi Mumbai and Pune hosting matches.")
